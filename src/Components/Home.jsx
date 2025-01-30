@@ -14,15 +14,15 @@ export default function Home() {
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                         <button className="btn-primary bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 w-full">
                             <Plus className="w-5 h-5 mr-2" />
-                            Monitor
+                            Add Revision
                         </button>
                         <button className="btn-primary bg-gradient-to-r from-emerald-500 to-emerald-600 hover:from-emerald-600 hover:to-emerald-700 w-full">
                             <Zap className="w-5 h-5 mr-2" />
-                            Analytics
+                            Get Revision
                         </button>
                         <button className="btn-primary bg-gradient-to-r from-purple-500 to-purple-600 hover:from-purple-600 hover:to-purple-700 w-full">
                             <BarChart3 className="w-5 h-5 mr-2" />
-                            Power Usage
+                            Update Roster
                         </button>
                     </div>
                     
